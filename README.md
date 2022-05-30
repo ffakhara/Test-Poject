@@ -9,5 +9,5 @@
 5.Upload to github Server /(git push).
 
 <hr>
-### This is Design Branch
+### This is Hardware Branch
 
